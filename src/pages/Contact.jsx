@@ -3,7 +3,7 @@ import { Phone, Mail, MapPin, MessageCircle } from "lucide-react"
 import { SectionTitle, Pill } from "../components/UI"
 
 const WHATSAPP_NUMBER = import.meta.env.VITE_WHATSAPP_NUMBER || "23480XXXXXXXXX"
-const STORE_NAME = import.meta.env.VITE_STORE_NAME || "SolarDealer"
+const STORE_NAME = import.meta.env.VITE_STORE_NAME || "Crown Solar"
 
 // Replace with your real address (used in map search)
 const DEFAULT_LOCATION_QUERY = "Lagos, Nigeria"

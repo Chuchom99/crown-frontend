@@ -137,7 +137,7 @@ export default function Footer() {
         {/* BOTTOM BAR */}
         <div className="mt-10 border-t border-slate-100 pt-6 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-slate-600">
           <div>
-            © {new Date().getFullYear()} SolarDealer. All rights reserved.
+            © {new Date().getFullYear()} Crown Solar. All rights reserved.
           </div>
           <div className="flex gap-4">
             <Link to="/privacy" className="hover:text-brand-orange">

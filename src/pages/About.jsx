@@ -84,7 +84,7 @@ export default function About() {
       {/* WHY US */}
       <section className="container py-14">
         <SectionTitle
-          eyebrow="Why SolarDealer"
+          eyebrow="Why Crown Solar"
           title="A smoother way to buy solar"
           subtitle="We focus on clarity, reliability, and fast support—so customers can buy confidently."
         />
