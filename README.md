@@ -2,6 +2,8 @@
 
 The storefront and admin dashboard for **Crown Solar**, an online shop for solar equipment: panels, inverters, batteries and accessories. Customers can browse products, size a solar system with the built-in quote calculator, and check out. Admins manage the catalogue, orders and users from a dashboard in the same app.
 
+**Live site:** <https://crowninnovativetech.com/>
+
 Built with React 18, Vite and Tailwind CSS. The app talks to a separate Node/Express REST API (crown-backend).
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
@@ -107,6 +109,10 @@ src/
 ## Deployment
 
 Run `npm run build` and deploy the `dist/` folder to any static host (Vercel, Netlify, Render and so on). Set the environment variables in the host's dashboard. Because the app uses client-side routing, configure the host to send all routes to `index.html`.
+
+## License
+
+Copyright (c) 2026 Chuchom99. All rights reserved. This code is public for viewing and portfolio purposes only and is not open source. See [LICENSE](LICENSE).
 
 ## Author
 
